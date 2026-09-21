@@ -3,12 +3,12 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class testToRead{
-    public static void mian(Stirng[] args){
+    public static void main(String[] args){
         File readFile = new File("customer.csv");
 
         try (Scanner myReader = new Scanner(readFile)){
             while (myReader.hasNextLine()){
-                Stirng data = readFile.nextLine();
+                String data = myReader.nextLine();
                 System.out.println(data);
             }
         }catch (FileNotFoundException e){
