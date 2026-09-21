@@ -1,0 +1,11 @@
+customer_id,customer_name,customer_ic,customer_age,customer_contact,customer_email,customer_emergancy
+P0001,Ahmad Razak,950112-14-5567,31,012-3456789,ahmad.razak@email.com,Siti Aminah
+P0002,Tan Wei Ming,880520-10-5231,38,016-9876543,tan.wm@email.com,Tan Boon Hock
+P0003,Sarah Johnson,921105-08-6124,34,011-22334455,sarah.j@email.com,Michael Johnson
+P0004,Muthu Arumugam,750315-14-5009,51,014-5566778,muthu.a@email.com,Laxmi Muthu
+P0005,Chloe Lim,010809-01-5422,25,017-1122334,chloe.lim@email.com,Lim Swee Keat
+P0006,Nurul Izzah,991212-03-5098,27,019-8877665,nurul.i@email.com,Zulkifli Hassan
+P0007,Robert Smith,820425-10-5543,44,010-4455667,robert.smith@email.com,Alice Smith
+P0008,Lee Siew Lan,650730-05-5112,61,013-9900887,lee.sl@email.com,Wong Kar Wai
+P0009,Zainab Yusuf,900214-14-6010,36,012-6677889,zainab.y@email.com,Yusuf Idris
+P0010,Daniel Wong,030501-14-5211,23,018-3344556,daniel.w@email.com,Wong Mei Ling
